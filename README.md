@@ -139,3 +139,10 @@ Abra o notebook Jupyter e execute cada célula sequencialmente. Certifique-se de
 ### 6. Considerações finais
 
 Você pode encontrar os resultados do csv nos documentos ocr-teste.csv, ocr-treino.csv e resultados.csv
+
+### Autores
+
+- Gabriel Gutierrez Pereira
+- Hugo Amorim Martins
+- Nicole Martins dos Santos
+
