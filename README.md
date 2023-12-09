@@ -8,6 +8,9 @@ Este projeto tem como objetivo automatizar o processo de reconhecimento de texto
 - pillow
 - pandas
 
+## Dados utilizados
+
+Os dados utilizados se encontram no Google drive através deste link e podem ser baixados: https://drive.google.com/drive/folders/1_UXtUoqWGQJL08U_Qvv4bzz3pHPgPMJs?usp=sharing
 ## Passos para Executar o Notebook
 
 ### 1. Instalar as Dependências
